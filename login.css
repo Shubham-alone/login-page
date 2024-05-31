@@ -1,0 +1,16 @@
+ body{
+    background-color: cadetblue;
+ }
+ form{
+    width: 24%;
+    margin: auto;
+    padding-top: 150px;
+     } 
+
+     .bg{
+        background-color: pink;
+     }
+
+    .btn-color{
+        background-color: red;
+    }
